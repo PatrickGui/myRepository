@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="IntelligentSharedClassroom_AdministrationPart:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/IntelligentSharedClassroom_AdministrationPart_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="IntelligentSharedClassroom_AdministrationPart/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="IntelligentSharedClassroom_AdministrationPart" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
